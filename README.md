@@ -1,8 +1,8 @@
 # FashionMNIST
 Supervised and unsupervised learning on Fashion MNIST data
 
-Logistic Regression
-Convolution Neural Networks
+a. Logistic Regression
+b. Convolution Neural Networks
 
-PCA & K-means
-AutoEncoder
+a. PCA & K-means
+b. AutoEncoder
